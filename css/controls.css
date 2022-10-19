@@ -497,29 +497,29 @@ textarea[readonly].custom-textbox {
 .wrapper .facebook:hover .tooltip,
 .wrapper .facebook:hover .tooltip::before {
   background-color: #3b5999;
-  color: #ffffff;
+  color:#FFA500 ;
 }
 .wrapper .twitter:hover,
 .wrapper .twitter:hover .tooltip,
 .wrapper .twitter:hover .tooltip::before {
   background-color: #46c1f6;
-  color: #ffffff;
+  color: #FFA500 ;
 }
 .wrapper .instagram:hover,
 .wrapper .instagram:hover .tooltip,
 .wrapper .instagram:hover .tooltip::before {
   background-color: #e1306c;
-  color: #ffffff;
+  color: #FFA500 ;
 }
 .wrapper .github:hover,
 .wrapper .github:hover .tooltip,
 .wrapper .github:hover .tooltip::before {
   background-color: #333333;
-  color: #ffffff;
+  color: #FFA500 ;
 }
 .wrapper .youtube:hover,
 .wrapper .youtube:hover .tooltip,
 .wrapper .youtube:hover .tooltip::before {
   background-color: #de463b;
-  color: #ffffff;
+  color:#FFA500 ;
 }
